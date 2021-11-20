@@ -7,3 +7,5 @@ Deve possuir alem das funções de CRUD para usuario, regras de permissões para
 
 As permissões de rota seram geridas com autenticação RBAC <br>
 As rotas deve ser autenticadas com JWT Token
+<br>
+Bandos de dados: Mysql
